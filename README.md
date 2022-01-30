@@ -6,3 +6,5 @@ The nodes are distrubuted to levels using a partial distrubution functions. The 
 There are various randomization parameters in the code for distrubution and connectivity. These can also be modified. 
 
 This was written to benchmark different memory architectures for a custom processor. 
+
+The script will create a Graphviz file for the graph generation along with a PDF containing the generated graph. 
